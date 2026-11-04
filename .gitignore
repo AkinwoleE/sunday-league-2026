@@ -1,0 +1,5 @@
+node_modules
+.env*
+.vercel
+ADMIN_PASSWORD.txt
+source.xlsx

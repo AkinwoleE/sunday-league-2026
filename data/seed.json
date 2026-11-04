@@ -1,0 +1,346 @@
+{
+ "league_name": "Sunday League Tournament 2026",
+ "info": {
+  "Tournament dates": "1 November – 13 December 2026",
+  "Match day": "Every Sunday",
+  "Playing window": "2:00 PM – 4:00 PM",
+  "Format": "5 teams • double round-robin • 20 matches • no final",
+  "Match duration": "15-minute half + 5-minute halftime + 15-minute half = 35 minutes",
+  "Changeover": "5 minutes between matches",
+  "Points": "Win 3 • Draw 1 • Loss 0",
+  "Opening match": "Legacy FC vs Super Strikas FC — Sunday, 1 November 2026",
+  "Week 1 repeat team": "Super Strikas FC also plays in the final slot."
+ },
+ "teams": [
+  "El Nino",
+  "Legacy FC",
+  "Venom FC",
+  "Super Strikas FC",
+  "Lion Stars FC"
+ ],
+ "fixtures": [
+  {
+   "match_no": 1,
+   "date": "2026-11-01",
+   "slot": "2:00–2:35 PM",
+   "home": "Legacy FC",
+   "away": "Super Strikas FC",
+   "home_goals": 1,
+   "away_goals": 5,
+   "status": "completed"
+  },
+  {
+   "match_no": 2,
+   "date": "2026-11-01",
+   "slot": "2:40–3:15 PM",
+   "home": "Venom FC",
+   "away": "Lion Stars FC",
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "completed"
+  },
+  {
+   "match_no": 3,
+   "date": "2026-11-01",
+   "slot": "3:20–3:55 PM",
+   "home": "El Nino",
+   "away": "Super Strikas FC",
+   "home_goals": 2,
+   "away_goals": 3,
+   "status": "completed"
+  },
+  {
+   "match_no": 4,
+   "date": "2026-11-08",
+   "slot": "2:00–2:35 PM",
+   "home": "Venom FC",
+   "away": "Super Strikas FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 5,
+   "date": "2026-11-08",
+   "slot": "2:40–3:15 PM",
+   "home": "El Nino",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 6,
+   "date": "2026-11-08",
+   "slot": "3:20–3:55 PM",
+   "home": "Legacy FC",
+   "away": "Super Strikas FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 7,
+   "date": "2026-11-15",
+   "slot": "2:00–2:35 PM",
+   "home": "El Nino",
+   "away": "Venom FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 8,
+   "date": "2026-11-15",
+   "slot": "2:40–3:15 PM",
+   "home": "Super Strikas FC",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 9,
+   "date": "2026-11-15",
+   "slot": "3:20–3:55 PM",
+   "home": "Legacy FC",
+   "away": "Venom FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 10,
+   "date": "2026-11-22",
+   "slot": "2:00–2:35 PM",
+   "home": "Super Strikas FC",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 11,
+   "date": "2026-11-22",
+   "slot": "2:40–3:15 PM",
+   "home": "Legacy FC",
+   "away": "Venom FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 12,
+   "date": "2026-11-22",
+   "slot": "3:20–3:55 PM",
+   "home": "El Nino",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 13,
+   "date": "2026-11-29",
+   "slot": "2:00–2:35 PM",
+   "home": "El Nino",
+   "away": "Super Strikas FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 14,
+   "date": "2026-11-29",
+   "slot": "2:40–3:15 PM",
+   "home": "Legacy FC",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 15,
+   "date": "2026-11-29",
+   "slot": "3:20–3:55 PM",
+   "home": "El Nino",
+   "away": "Venom FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 16,
+   "date": "2026-12-06",
+   "slot": "2:00–2:35 PM",
+   "home": "El Nino",
+   "away": "Legacy FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 17,
+   "date": "2026-12-06",
+   "slot": "2:40–3:15 PM",
+   "home": "Venom FC",
+   "away": "Super Strikas FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 18,
+   "date": "2026-12-06",
+   "slot": "3:20–3:55 PM",
+   "home": "Legacy FC",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 19,
+   "date": "2026-12-13",
+   "slot": "2:00–2:35 PM",
+   "home": "El Nino",
+   "away": "Legacy FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  },
+  {
+   "match_no": 20,
+   "date": "2026-12-13",
+   "slot": "2:40–3:15 PM",
+   "home": "Venom FC",
+   "away": "Lion Stars FC",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "upcoming"
+  }
+ ],
+ "scorers": [
+  {
+   "name": "Machala",
+   "team": null,
+   "goals": 3,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Daniel",
+   "team": null,
+   "goals": 3,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Godspower",
+   "team": null,
+   "goals": 2,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Cele",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Tobi",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Dele",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "AB",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Dewumi",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  },
+  {
+   "name": "Tony",
+   "team": null,
+   "goals": 1,
+   "matches": 0,
+   "notes": null
+  }
+ ],
+ "rules": [
+  {
+   "rule": "Officials",
+   "details": "Each match has one referee and two linesmen. Officials’ decisions are final."
+  },
+  {
+   "rule": "Access",
+   "details": "No external persons are allowed once the tournament kicks off."
+  },
+  {
+   "rule": "Eligibility / payment",
+   "details": "No weekly payment. Players must have paid the monthly ₦5,000 fee to be eligible."
+  },
+  {
+   "rule": "Goalkeeper rotation",
+   "details": "The designated “good keeper” rotates among each team."
+  },
+  {
+   "rule": "Referee communication",
+   "details": "Only the team captain may approach or complain to the referee."
+  },
+  {
+   "rule": "Captain-rule penalty",
+   "details": "After three violations by a team, the team is penalised and must choose one player to miss one minute of game time."
+  },
+  {
+   "rule": "Incomplete team",
+   "details": "If a team is incomplete before kick-off, it must choose to play with available players or forfeit. If forfeited, the opponent receives 3 points."
+  },
+  {
+   "rule": "Arrival",
+   "details": "Teams should arrive at least 15 minutes before kick-off."
+  },
+  {
+   "rule": "Kits",
+   "details": "Teams must wear distinguishable kits or bibs."
+  },
+  {
+   "rule": "League scoring",
+   "details": "Win = 3 points; draw = 1 point; loss = 0 points."
+  },
+  {
+   "rule": "Tie-breakers",
+   "details": "Points, then goal difference, then goals scored, then head-to-head points."
+  },
+  {
+   "rule": "Competition format",
+   "details": "No final or knockout stage. The team with the highest points after all fixtures wins."
+  },
+  {
+   "rule": "Double fixtures in a day",
+   "details": "If a team plays twice on a Sunday, those games must be in the first and last time slots."
+  },
+  {
+   "rule": "Match length",
+   "details": "15 minutes per half, 5-minute halftime, 35 minutes total; allow 5 minutes between matches."
+  }
+ ]
+}

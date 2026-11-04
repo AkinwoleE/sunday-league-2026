@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#060b2b">
+<title>Sunday League Tournament 2026</title>
+<meta name="description" content="Fixtures, results, table and top scorers for the Sunday League Tournament 2026.">
+<link rel="icon" href="/crest.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="stars-bg" aria-hidden="true"></div>
+<header class="topbar">
+  <a href="#/" class="brand"><img src="/crest.svg" alt="" width="34" height="34"><span><b id="brand-name">Sunday League</b><small id="brand-sub">Tournament 2026</small></span></a>
+  <a href="#/admin" class="admin-link" aria-label="Admin">
+    <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 1 3 5v6c0 5.5 3.8 10.7 9 12 5.2-1.3 9-6.5 9-12V5l-9-4Zm0 6a3 3 0 1 1 0 6 3 3 0 0 1 0-6Zm0 14c-2.3-.7-4.3-2.4-5.4-4.6.1-1.8 3.6-2.8 5.4-2.8s5.3 1 5.4 2.8C16.3 18.6 14.3 20.3 12 21Z"/></svg>
+  </a>
+</header>
+<main id="app" tabindex="-1"><div class="loading"><div class="spinner"></div>Loading league…</div></main>
+<nav class="bottomnav" aria-label="Main">
+  <a href="#/" data-nav="home"><svg viewBox="0 0 24 24"><path d="M3 11 12 3l9 8v10h-6v-6H9v6H3z"/></svg><span>Home</span></a>
+  <a href="#/matches" data-nav="matches"><svg viewBox="0 0 24 24"><path d="M7 2v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-2V2h-2v2H9V2zm-2 8h14v10H5z"/></svg><span>Matches</span></a>
+  <a href="#/table" data-nav="table"><svg viewBox="0 0 24 24"><path d="M3 4h18v4H3zm0 6h18v4H3zm0 6h18v4H3z"/></svg><span>Table</span></a>
+  <a href="#/stats" data-nav="stats"><svg viewBox="0 0 24 24"><path d="M12 2 14.9 8.3 22 9.2l-5.2 4.8 1.4 7L12 17.5 5.8 21l1.4-7L2 9.2l7.1-.9z"/></svg><span>Stats</span></a>
+  <a href="#/teams" data-nav="teams"><svg viewBox="0 0 24 24"><path d="M12 2 4 5v6c0 5 3.4 9.7 8 11 4.6-1.3 8-6 8-11V5z"/></svg><span>Teams</span></a>
+</nav>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="/app.js" defer></script>
+</body>
+</html>

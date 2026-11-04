@@ -1,0 +1,8 @@
+{
+  "name": "sunday-league-2026",
+  "private": true,
+  "type": "module",
+  "scripts": { "seed": "node scripts/seed.mjs" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "@neondatabase/serverless": "^0.10.4" }
+}
